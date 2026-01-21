@@ -36,11 +36,11 @@ This lab documents the process of automating ticket creation and verification us
 - Open a web browser and navigate to **developer.servicenow.com**.
 - Log in using your temporary email.
 - Select **Create or Launch My Instance**.
-- Ensure the instance is running the latest version (e.g., **Zerk**).
+- Ensure the instance is running the latest version (e.g., **Zurich**).
 - Click **Manage My Instance**.
 - Record the following details:
   - Instance URL  
-  - Username (**admin**)  
+  - Username 
   - Password  
 
 ### ▶️ Script Execution
