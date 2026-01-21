@@ -1,5 +1,8 @@
 # 🎟️ Ticket Management Automation Using PowerShell & ServiceNow
 
+## 🎬 Watch Me Build This Lab!
+https://www.loom.com/share/871652f4f99f42abbeb47ab3d3df7738
+
 ## 🎯 Objective
 This lab documents the process of automating ticket creation and verification using **PowerShell scripts** integrated with **ServiceNow**. The goal is to demonstrate how scripting can streamline IT service management workflows and reduce manual effort.
 
