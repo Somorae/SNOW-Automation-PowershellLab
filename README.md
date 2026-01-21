@@ -30,7 +30,7 @@ This lab documents the process of automating ticket creation and verification us
 - Paste your PowerShell script into the blank document.
 - Click **File → Save As**.
 - Confirm the file is saved in the **scripts** folder.
-- Change the file extension to **`.psd`** and click **Save**.
+- Change the file extension to **`.ps1`** and click **Save**.
 
 ### 🌐 ServiceNow Configuration
 - Open a web browser and navigate to **developer.servicenow.com**.
